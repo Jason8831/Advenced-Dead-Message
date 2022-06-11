@@ -1,0 +1,30 @@
+#FR | mort par un joueur
+#EN | death by a player
+DeadByPlayer: "§f[§l§4Kill§r§f]: §l§4{player} §r§fviens de ce faire tuer par §l§4{killer} §r§f[§l§4{health}§r§f/§l§4{max_health}§r§f]" #{player}, {killer}, {health}, {max_health}
+#FR | mort de chute
+#EN | death by fall
+DeadByFall: "§f[§l§4Kill§r§f]: §l§4{player} §r§fviens de ce claquer les genous au sol" #{player}
+#FR | mort du feu
+#EN | death by fire
+DeadByFire: "§f[§l§4Kill§r§f]: §l§4{player} §r§fa cru que le feux était rien" #{player}
+#FR | mort par la lave
+#EN | death by lava
+DeadByLava: "§f[§l§4Kill§r§f]: §l§4{player} §r§fses fait carboniser" #{player}
+#FR | mort par une explosion
+#EN | killed by an explosion
+DeadByExplosion: "§f[§l§4Kill§r§f]: §l§4{player} §r§fses fait exploser" #{player}
+#FR | mort par la magie
+#EN | death by magic
+DeadByMagic: "§f[§l§4Kill§r§f]: §l§4{player} §r§fses fait détruir par dieux" #{player}
+#FR | mort de faim
+#EN | starved to death
+DeadByNoFood: "§f[§l§4Kill§r§f]: §l§4{player} §r§fa oublier de manger" #{player}
+#FR | mort par suffoction
+#EN | death by suffocation
+DeadBySuffocation: "§f[§l§4Kill§r§f]: §l§4{player} §r§fa oublier de respirer" #{player}
+#FR | mort de sucide
+#EN | death of sucide
+DeadBySucide: "§f[§l§4Kill§r§f]: §l§4{player} §r§fne voulai plus vivre" #{player}
+#FR | mort par le void
+#EN | death by void
+DeadByVoid: "§f[§l§4Kill§r§f]: §l§4{player} §r§fest passé dans l'audela" #{player}
