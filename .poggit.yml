@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Jason8831/Advenced-Dead-Message
+build-by-default: true
+branches:
+- main
+projects:
+  AdvencedDeadMessage:
+    path: AdvencedDeadMessage/
+...
